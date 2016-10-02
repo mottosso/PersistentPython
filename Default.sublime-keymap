@@ -1,0 +1,11 @@
+[
+	{ "keys": ["ctrl+enter"], "command": "persistent_python", "context":
+		[
+			{ "key": "selector",
+			  "operator": "equal",
+			  "operand": "source.python",
+			  "match_all": true
+			}
+		]
+	}
+]

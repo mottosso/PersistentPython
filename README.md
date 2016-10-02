@@ -6,6 +6,19 @@ Persistent Python interpreter for Sublime Text 3.
 
 <br>
 
+### Usage
+
+1. Install this plug-in
+2. Ctrl + Shift + B and select "Persistent Python" to build
+3. Ctrl + B or F7 to build all or selected text
+4. (optional) Press Ctrl + Enter to build
+
+If no text is selected, the entire view is built and cleared.
+
+Enable/disable the package as per usual via "Enable Package" and "Disable Package" commands.
+
+<br>
+
 ### Install
 
 Choose **one** of the following methods.
