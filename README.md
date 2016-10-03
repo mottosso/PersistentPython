@@ -2,7 +2,7 @@
 
 Run code without saving, in an interpreter that remembers state from previous runs.
 
-![](https://cloud.githubusercontent.com/assets/2152766/19044212/303d75ca-898b-11e6-9c88-63dc39bb7d20.gif)
+![](https://cloud.githubusercontent.com/assets/2152766/19045076/f51cc8fc-898e-11e6-92e5-fb1b337f542c.gif)
 
 <br>
 
