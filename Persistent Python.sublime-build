@@ -1,0 +1,4 @@
+{
+    "target": "persistent_python", 
+    "selector": "source.python"
+}
